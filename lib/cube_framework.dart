@@ -8,6 +8,7 @@ export 'package:flutter_hooks/flutter_hooks.dart';
 export 'package:provider/provider.dart' hide Dispose;
 export 'package:provider/single_child_widget.dart';
 export 'package:url_launcher/url_launcher.dart';
+export 'package:url_launcher/url_launcher_string.dart';
 export 'package:cached_network_image/cached_network_image.dart';
 export 'package:google_fonts/google_fonts.dart';
 export 'package:loading_animation_widget/loading_animation_widget.dart';
