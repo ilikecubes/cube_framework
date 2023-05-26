@@ -12,6 +12,7 @@ dependencies:
   cached_network_image: ^3.2.3
   flutter:
     sdk: flutter
+  go_router: ^7.1.1
   google_fonts: ^4.0.3
   loading_animation_widget: ^1.2.0+4
   provider: ^6.0.5

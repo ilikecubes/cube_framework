@@ -13,3 +13,4 @@ export 'package:google_fonts/google_fonts.dart';
 export 'package:loading_animation_widget/loading_animation_widget.dart';
 export 'package:auto_size_text/auto_size_text.dart';
 export 'package:responsive_builder/responsive_builder.dart';
+export 'package:go_router/go_router.dart';
