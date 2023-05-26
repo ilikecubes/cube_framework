@@ -10,7 +10,7 @@ extension ThemeExtension on ColorScheme {
           ),
         ),
       );
-  ButtonStyle onPrimaryButton() => ElevatedButton.styleFrom(
+  ButtonStyle backgroundButton() => ElevatedButton.styleFrom(
         foregroundColor: onBackground,
         backgroundColor: background,
         shape: const RoundedRectangleBorder(
